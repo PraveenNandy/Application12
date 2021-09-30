@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="employeelist">Employee List</string>
+    <string name="employeeedetail">Employee Details</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">@{@string/address(street+suite+city+zipcode)}</string>
+    <string name="website">website</string>
+    <string name="phone">phone</string>
+    <string name="companyname">companyname</string>
+</resources>
